@@ -20,3 +20,4 @@ ipython_config.py
 data/
 *.tar.gz
 *.pth
+results_*_*/
