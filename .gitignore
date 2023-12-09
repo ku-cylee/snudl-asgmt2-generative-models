@@ -21,3 +21,4 @@ data/
 *.tar.gz
 *.pth
 results_*_*/
+stable_diffusion_result/
